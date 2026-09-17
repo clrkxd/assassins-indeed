@@ -139,7 +139,7 @@ position = Vector2(-55, -22)
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=1706648720]
 position = Vector2(1, -16)
-zoom = Vector2(3, 3)
+zoom = Vector2(2.5, 2.5)
 position_smoothing_enabled = true
 
 [node name="Platform" parent="." unique_id=1499004820 instance=ExtResource("3_lnu2h")]
