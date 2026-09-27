@@ -270,12 +270,6 @@ position = Vector2(2148, 164)
 libraries/ = SubResource("AnimationLibrary_u5sy4")
 autoplay = &"vertical"
 
-[node name="slime" parent="." unique_id=1055975408 instance=ExtResource("7_u5sy4")]
-position = Vector2(369, -23)
-
-[node name="slime2" parent="." unique_id=418551537 instance=ExtResource("7_u5sy4")]
-position = Vector2(1014, 170)
-
 [node name="slime3" parent="." unique_id=1484222471 instance=ExtResource("7_u5sy4")]
 position = Vector2(665, -79)
 
